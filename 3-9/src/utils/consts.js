@@ -1,1 +1,0 @@
-export const API_URL = 'https://61a898f533e9df0017ea39d7.mockapi.io/cameras/'
